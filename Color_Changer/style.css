@@ -4,6 +4,7 @@ html {
   
   span {
     display: block;
+    color:black;
   }
   .canvas {
     margin: 100px auto 100px;
