@@ -7,22 +7,30 @@ This repository contains a collection of simple JavaScript projects designed to 
 ## Table of Contents
 
 - [Projects](#projects)
-  - [1. BMI Calculator](#1-bmi-calculator)
-  - [2. Background Color Switcher](#2-background-color-switcher)
-  - [3. Simple To-Do List](#3-simple-to-do-list)
-  - [4. Countdown Timer](#4-countdown-timer)
-  - [5. Random Quote Generator](#5-random-quote-generator)
+  - [1. Color Changer](#1-color-changer)
+  - [2. BMI Calculator](#2-bmi-calculator)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ## Projects
 
-### 1. BMI Calculator
+### 1. Color Changer
+A project to dynamically change the background color of a webpage by clicking buttons.
+
+#### Features:
+- Buttons for predefined colors (e.g., Blue, Yellow, Grey).
+- Interactive user interface with smooth transitions.
+
+#### Technologies Used:
+- **HTML**: For creating the structure of the webpage.
+- **CSS**: For styling the buttons and background.
+- **JavaScript**: For handling button clicks and dynamically changing colors.
+
+---
+
+### 2. BMI Calculator
 A simple tool to calculate Body Mass Index (BMI) based on user input for height and weight.
 
 #### Features:
@@ -30,44 +38,10 @@ A simple tool to calculate Body Mass Index (BMI) based on user input for height 
 - Displays BMI value with a corresponding message.
 - Provides a weight guide for underweight, normal, and overweight categories.
 
----
-
-### 2. Background Color Switcher
-A project to dynamically change the background color of a webpage by clicking buttons.
-
-#### Features:
-- Buttons for predefined colors (e.g., Blue, Yellow, Grey).
-- Interactive user interface with smooth transitions.
-
----
-
-### 3. Simple To-Do List
-A basic to-do list application to manage daily tasks.
-
-#### Features:
-- Add new tasks.
-- Mark tasks as completed.
-- Remove tasks from the list.
-
----
-
-### 4. Countdown Timer
-A simple countdown timer to track time for specific events.
-
-#### Features:
-- Set a timer for a custom duration.
-- Display remaining time in a visually appealing way.
-- Alert when the countdown is complete.
-
----
-
-### 5. Random Quote Generator
-Generates a random quote from a predefined list every time a button is clicked.
-
-#### Features:
-- Displays motivational quotes.
-- Refreshes the quote with each click.
-- Allows users to share quotes via social media.
+#### Technologies Used:
+- **HTML**: For building the input form and layout.
+- **CSS**: For styling the interface and adding responsiveness.
+- **JavaScript**: For performing calculations and updating the results dynamically.
 
 ---
 
@@ -75,4 +49,4 @@ Generates a random quote from a predefined list every time a button is clicked.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-sample-projects.git
+   git clone https://github.com/LawandeAbhay/JavaScript_Projects.git
