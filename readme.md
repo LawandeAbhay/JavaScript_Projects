@@ -43,10 +43,11 @@ A simple clock to display the current time and updates dynamically
 ---
 
 ### 4. Guess a Number
-A simple clock to display the current time and updates dynamically
+A game where user guess a number by try and error basis.
 #### Features:
-- Displays the current time in HH:MM:SS AM/PM format.
-- Updates dynamically every second to ensure accurate real-time display.
+- Accept user input as a number and validate it against specified constraints.
+- Compare the input with a randomly generated number and provide feedback, indicating if the guess is correct, too low, or too high.
+- Limit the user to 10 attempts, displaying a history of all previous guesses.
 
 ---
 ## Technologies Used:
