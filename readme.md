@@ -9,6 +9,7 @@ This repository contains a collection of simple JavaScript projects designed to 
 - [Projects](#projects)
   - [1. Color Changer](#1-color-changer)
   - [2. BMI Calculator](#2-bmi-calculator)
+  - [3. Digital Clock](#3-digital-clock)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 
@@ -22,12 +23,6 @@ A project to dynamically change the background color of a webpage by clicking bu
 #### Features:
 - Buttons for predefined colors (e.g., Blue, Yellow, Grey).
 - Interactive user interface with smooth transitions.
-
-#### Technologies Used:
-- **HTML**: For creating the structure of the webpage.
-- **CSS**: For styling the buttons and background.
-- **JavaScript**: For handling button clicks and dynamically changing colors.
-
 ---
 
 ### 2. BMI Calculator
@@ -38,13 +33,19 @@ A simple tool to calculate Body Mass Index (BMI) based on user input for height 
 - Displays BMI value with a corresponding message.
 - Provides a weight guide for underweight, normal, and overweight categories.
 
-#### Technologies Used:
+---
+### 3. Digital Clock
+A simple clock to display the current time and updates dynamically
+#### Features:
+- Displays the current time in HH:MM:SS AM/PM format.
+- Updates dynamically every second to ensure accurate real-time display.
+---
+## Technologies Used:
 - **HTML**: For building the input form and layout.
 - **CSS**: For styling the interface and adding responsiveness.
 - **JavaScript**: For performing calculations and updating the results dynamically.
 
 ---
-
 ## Installation
 
 1. Clone the repository:
