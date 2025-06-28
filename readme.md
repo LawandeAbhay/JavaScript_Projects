@@ -10,6 +10,7 @@ This repository contains a collection of simple JavaScript projects designed to 
   - [1. Color Changer](#1-color-changer)
   - [2. BMI Calculator](#2-bmi-calculator)
   - [3. Digital Clock](#3-digital-clock)
+  - [4. Guess a Number](#4-guess-a-number)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 
@@ -39,6 +40,14 @@ A simple clock to display the current time and updates dynamically
 #### Features:
 - Displays the current time in HH:MM:SS AM/PM format.
 - Updates dynamically every second to ensure accurate real-time display.
+---
+
+### 4. Guess a Number
+A simple clock to display the current time and updates dynamically
+#### Features:
+- Displays the current time in HH:MM:SS AM/PM format.
+- Updates dynamically every second to ensure accurate real-time display.
+
 ---
 ## Technologies Used:
 - **HTML**: For building the input form and layout.
